@@ -1,5 +1,3 @@
-
 # Specification 'audio-focus'
 
-This is the repository for audio-focus. You're welcome to contribute! Let's make the Web rock our socks
-off!
+**Archival note**: Work on this proposal migrated to the W3C Media Working Group in February 2023, see the [w3c/audio-session](https://github.com/w3c/audio-session) repository.
